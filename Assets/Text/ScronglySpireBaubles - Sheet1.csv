@@ -1,0 +1,31 @@
+Tag,Name,Description,Max Quantity 0 = infinite,Base Cost,Cost Scaling Additive,Impact1,Impact2,Category,Image Coordinates,StartsAvailable,MustBeUnlocked
+IncreaseHandSize,Sticky Hand,Increases hand size by 1. Current size is {7 + 0}.,0,800,400,1,0,Common,E15,TRUE,FALSE
+DecreaseCardsNeededForStraight,Snakes,Decreases number of cards needed to make a straight by 1,4,400,400,1,0,Common,B13,TRUE,FALSE
+AllowSpecialCardsInStandardDropZones,Finger Monster,Allows you to play special cards in standard card slots,1,700,0,1,0,Uncommon,E2,TRUE,FALSE
+AllowDiscardingMore,Tanka Truck,Allows you to discard any number of cards at once,1,500,0,255,0,Uncommon,E4,TRUE,FALSE
+DiscardAcesForMoney,Señor Pail,Whenever you discard two or more aces at onceCOMMA gain 200 Diamonds,1,400,0,1,0,Common,D8,TRUE,FALSE
+DecreaseCardsNeededForFlush,Plastic Brick,Decreases the number of cards needed to make a flush by 1,4,500,500,1,0,Common,D14,TRUE,FALSE
+DecreaseCardsNeededForStraightFlush,Domino,Decreases the number of cards needed to make a straight flush by 1,4,800,800,1,0,Special,G4,TRUE,FALSE
+IncreaseMaxGapInStraights,Ladders,Increases the max gap in a straights and straight flushes by 1,3,600,100,1,0,Common,B14,TRUE,FALSE
+StraightsCanWrap,Snap Bracelet,Straights and straight flushes can wrap,1,100,0,1,0,Common,E14,TRUE,FALSE
+UseAllCardsInPlayArea,Cat's Eye,All played cards count as part of your scored hand,1,1000,0,1,0,Uncommon,F7,TRUE,FALSE
+Hand00Power,Aries,High Card,0,200,0,5,1,Zodiac,C1,TRUE,FALSE
+Hand01Power,Taurus,One Pair,0,200,0,10,1,Zodiac,C2,TRUE,FALSE
+Hand02Power,Gemini,Two Pair,0,200,0,15,1,Zodiac,C3,TRUE,FALSE
+Hand03Power,Cancer,Three of a Kind,0,200,0,10,2,Zodiac,C4,TRUE,FALSE
+Hand04Power,Leo,Straight,0,200,0,15,2,Zodiac,C5,TRUE,FALSE
+Hand05Power,Virgo,Flush,0,200,0,15,2,Zodiac,C6,TRUE,FALSE
+Hand06Power,Libra,Full House,0,200,0,20,2,Zodiac,C7,TRUE,FALSE
+Hand07Power,Scorpio,Four of a Kind,0,200,0,20,3,Zodiac,C8,TRUE,FALSE
+Hand08Power,Ophiuchus,Straight Flush,0,200,0,20,3,Zodiac,C9,TRUE,FALSE
+Hand09Power,Sagitarius,Five of a Kind,0,200,0,20,4,Zodiac,C10,FALSE,FALSE
+Hand10Power,Capricorn,Triple Double,0,200,0,20,3,Zodiac,C11,FALSE,FALSE
+Hand11Power,Aquarius,Double Triple,0,200,0,20,4,Zodiac,C12,FALSE,FALSE
+Hand12Power,Pisces,Stuffed House,0,200,0,20,5,Zodiac,C13,FALSE,FALSE
+Hand13Power,Cassiopeia,Six of a Kind,0,200,0,25,5,Zodiac,C14,FALSE,FALSE
+Hand14Power,Ursa Major,Guest House,0,200,0,20,4,Zodiac,C15,FALSE,FALSE
+Hand15Power,Ursa Minor,Wide House,0,200,0,25,5,Zodiac,D1,FALSE,FALSE
+Hand16Power,Canis Major,Huge House,0,200,0,25,5,Zodiac,D2,FALSE,FALSE
+Hand17Power,Pegasus,Seven of a Kind,0,200,0,25,6,Zodiac,D3,FALSE,FALSE
+IncreasePlayableStandardCardCount,Telescope,Increases the number of playable standard cards by 1COMMA unlocking new hand types,2,1200,800,1,0,Uncommon,G3,TRUE,FALSE
+IncreasePlayableSpecialCardCount,Black Queen,Increases the number of playable special cards by 1,6,600,200,1,0,Uncommon,B11,TRUE,FALSE

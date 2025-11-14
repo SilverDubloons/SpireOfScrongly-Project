@@ -1,0 +1,6454 @@
+fileFormatVersion: 2
+guid: e1f68ea60a1318b46a147dd16926129f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3495434716089444680
+    second: BaubleImages_0
+  - first:
+      213: -5914949400706981764
+    second: BaubleImages_1
+  - first:
+      213: -7512468533429033506
+    second: BaubleImages_2
+  - first:
+      213: -5591025064273511403
+    second: BaubleImages_3
+  - first:
+      213: -5479927382541972616
+    second: BaubleImages_4
+  - first:
+      213: -4990195685415979036
+    second: BaubleImages_5
+  - first:
+      213: -8353229518779191082
+    second: BaubleImages_6
+  - first:
+      213: -512087327195976042
+    second: BaubleImages_7
+  - first:
+      213: -2208061836009047496
+    second: BaubleImages_8
+  - first:
+      213: -4463012690824362156
+    second: BaubleImages_9
+  - first:
+      213: 748199998727105120
+    second: BaubleImages_10
+  - first:
+      213: 7504562833394843175
+    second: BaubleImages_11
+  - first:
+      213: -4243677219374144067
+    second: BaubleImages_12
+  - first:
+      213: -2943775610277099447
+    second: BaubleImages_13
+  - first:
+      213: -3833061327283764241
+    second: BaubleImages_14
+  - first:
+      213: 3419928158515276012
+    second: BaubleImages_15
+  - first:
+      213: -5959862161711906332
+    second: BaubleImages_16
+  - first:
+      213: 6208671066440838122
+    second: BaubleImages_17
+  - first:
+      213: 4619517623855587666
+    second: BaubleImages_18
+  - first:
+      213: -1230682357083900394
+    second: BaubleImages_19
+  - first:
+      213: 4253485117895210185
+    second: BaubleImages_20
+  - first:
+      213: 6035711061603991410
+    second: BaubleImages_21
+  - first:
+      213: 9055859190674154822
+    second: BaubleImages_22
+  - first:
+      213: 7177497341864771309
+    second: BaubleImages_23
+  - first:
+      213: 400575802679943711
+    second: BaubleImages_24
+  - first:
+      213: -2222903499804162718
+    second: BaubleImages_25
+  - first:
+      213: 2740184438273029436
+    second: BaubleImages_26
+  - first:
+      213: 14250581125483682
+    second: BaubleImages_27
+  - first:
+      213: -2501536777345988571
+    second: BaubleImages_28
+  - first:
+      213: -1366168417790474113
+    second: BaubleImages_29
+  - first:
+      213: -3446971242896164598
+    second: BaubleImages_30
+  - first:
+      213: -2654080174585549628
+    second: BaubleImages_31
+  - first:
+      213: 2132256259953470292
+    second: BaubleImages_32
+  - first:
+      213: 4975391780708653923
+    second: BaubleImages_33
+  - first:
+      213: 19303485909476340
+    second: BaubleImages_34
+  - first:
+      213: -8842432906730201674
+    second: BaubleImages_35
+  - first:
+      213: -2233010246966226643
+    second: BaubleImages_36
+  - first:
+      213: 3185455144383435771
+    second: BaubleImages_37
+  - first:
+      213: -4002086055184905865
+    second: BaubleImages_38
+  - first:
+      213: -5626912963460187370
+    second: BaubleImages_39
+  - first:
+      213: -1280657380979291723
+    second: BaubleImages_40
+  - first:
+      213: -8355868336776485570
+    second: BaubleImages_41
+  - first:
+      213: 3303723924606459133
+    second: BaubleImages_42
+  - first:
+      213: 7635223208326534093
+    second: BaubleImages_43
+  - first:
+      213: 2199576191291242110
+    second: BaubleImages_44
+  - first:
+      213: 6404742868431150423
+    second: BaubleImages_45
+  - first:
+      213: 1775179184341021114
+    second: BaubleImages_46
+  - first:
+      213: 7126706035600001471
+    second: BaubleImages_47
+  - first:
+      213: -2768871351729732245
+    second: BaubleImages_48
+  - first:
+      213: -8645664411613979621
+    second: BaubleImages_49
+  - first:
+      213: -3371781704080740871
+    second: BaubleImages_50
+  - first:
+      213: -5503412193488414079
+    second: BaubleImages_51
+  - first:
+      213: 6562773380403599664
+    second: BaubleImages_52
+  - first:
+      213: 5342565816208082597
+    second: BaubleImages_53
+  - first:
+      213: 8859547505053076944
+    second: BaubleImages_54
+  - first:
+      213: -5783024750676809863
+    second: BaubleImages_55
+  - first:
+      213: -7655782755254697565
+    second: BaubleImages_56
+  - first:
+      213: 5634568025133737565
+    second: BaubleImages_57
+  - first:
+      213: 7990252945857288001
+    second: BaubleImages_58
+  - first:
+      213: 6145960123125446203
+    second: BaubleImages_59
+  - first:
+      213: 329558975207952337
+    second: BaubleImages_60
+  - first:
+      213: -6156971168962485629
+    second: BaubleImages_61
+  - first:
+      213: -5233185611496640777
+    second: BaubleImages_62
+  - first:
+      213: 8949344831956388842
+    second: BaubleImages_63
+  - first:
+      213: 5956067686035738092
+    second: BaubleImages_64
+  - first:
+      213: 2702560367852341721
+    second: BaubleImages_65
+  - first:
+      213: -4899053774714033823
+    second: BaubleImages_66
+  - first:
+      213: -2510000276749796975
+    second: BaubleImages_67
+  - first:
+      213: 7249626377905341258
+    second: BaubleImages_68
+  - first:
+      213: -8280846756765530619
+    second: BaubleImages_69
+  - first:
+      213: -7878078295709179805
+    second: BaubleImages_70
+  - first:
+      213: 1251513850285264288
+    second: BaubleImages_71
+  - first:
+      213: 3946836335272628590
+    second: BaubleImages_72
+  - first:
+      213: -1426242836926234631
+    second: BaubleImages_73
+  - first:
+      213: 5967896629364259493
+    second: BaubleImages_74
+  - first:
+      213: 4532823683427782568
+    second: BaubleImages_75
+  - first:
+      213: 3258918594463815757
+    second: BaubleImages_76
+  - first:
+      213: 2733372074738681912
+    second: BaubleImages_77
+  - first:
+      213: -5042919425060300645
+    second: BaubleImages_78
+  - first:
+      213: 4372260762487479699
+    second: BaubleImages_79
+  - first:
+      213: 7827370131397442449
+    second: BaubleImages_80
+  - first:
+      213: 3065341981809395259
+    second: BaubleImages_81
+  - first:
+      213: -2553314839993179894
+    second: BaubleImages_82
+  - first:
+      213: -5941669095525479361
+    second: BaubleImages_83
+  - first:
+      213: 380857836103341897
+    second: BaubleImages_84
+  - first:
+      213: 8279257779594140236
+    second: BaubleImages_85
+  - first:
+      213: 1387955139389736977
+    second: BaubleImages_86
+  - first:
+      213: 5012366439942945353
+    second: BaubleImages_87
+  - first:
+      213: -6027611291684987792
+    second: BaubleImages_88
+  - first:
+      213: 720911144168060611
+    second: BaubleImages_89
+  - first:
+      213: -2932209705148861429
+    second: BaubleImages_90
+  - first:
+      213: -4472284076033667912
+    second: BaubleImages_91
+  - first:
+      213: -281886648368329129
+    second: BaubleImages_92
+  - first:
+      213: 2492104129377154523
+    second: BaubleImages_93
+  - first:
+      213: -3133033274519549492
+    second: BaubleImages_94
+  - first:
+      213: -1205093395850464152
+    second: BaubleImages_95
+  - first:
+      213: 3599562511912634866
+    second: BaubleImages_96
+  - first:
+      213: 4764418042673626364
+    second: BaubleImages_97
+  - first:
+      213: -7285544785970997631
+    second: BaubleImages_98
+  - first:
+      213: -8159708588255256359
+    second: BaubleImages_99
+  - first:
+      213: -537478708732127208
+    second: BaubleImages_100
+  - first:
+      213: 5932743415241447162
+    second: BaubleImages_101
+  - first:
+      213: -8584016272780481260
+    second: BaubleImages_102
+  - first:
+      213: 4350799799464284112
+    second: BaubleImages_103
+  - first:
+      213: -850663766981538526
+    second: BaubleImages_104
+  - first:
+      213: 4950298242632161711
+    second: BaubleImages_105
+  - first:
+      213: 7507718264786447160
+    second: BaubleImages_106
+  - first:
+      213: 7963082320445066445
+    second: BaubleImages_107
+  - first:
+      213: -7024838826619820638
+    second: BaubleImages_108
+  - first:
+      213: -4866902078633037625
+    second: BaubleImages_109
+  - first:
+      213: 6083589218777997111
+    second: BaubleImages_110
+  - first:
+      213: -2563038732741125774
+    second: BaubleImages_111
+  - first:
+      213: -6879384998244126857
+    second: BaubleImages_112
+  - first:
+      213: 5552265126267840631
+    second: BaubleImages_113
+  - first:
+      213: 6048742038408934028
+    second: BaubleImages_114
+  - first:
+      213: -2749320996873803914
+    second: BaubleImages_115
+  - first:
+      213: 8205982508165101524
+    second: BaubleImages_116
+  - first:
+      213: 8825562470206448771
+    second: BaubleImages_117
+  - first:
+      213: 6390629625720407453
+    second: BaubleImages_118
+  - first:
+      213: -4763414322734881549
+    second: BaubleImages_119
+  - first:
+      213: 3763741288638898468
+    second: BaubleImages_120
+  - first:
+      213: 4288636292301263167
+    second: BaubleImages_121
+  - first:
+      213: 3577252030239342336
+    second: BaubleImages_122
+  - first:
+      213: -7076420423641700469
+    second: BaubleImages_123
+  - first:
+      213: -5823062226564976849
+    second: BaubleImages_124
+  - first:
+      213: 1209966655726731245
+    second: BaubleImages_125
+  - first:
+      213: -9110068085277028642
+    second: BaubleImages_126
+  - first:
+      213: 1044176272909539685
+    second: BaubleImages_127
+  - first:
+      213: 4128727045789592067
+    second: BaubleImages_128
+  - first:
+      213: -4637657323070613816
+    second: BaubleImages_129
+  - first:
+      213: -4868239712495475784
+    second: BaubleImages_130
+  - first:
+      213: -2819992831899051898
+    second: BaubleImages_131
+  - first:
+      213: 4350585454426699436
+    second: BaubleImages_132
+  - first:
+      213: -4891926777618205277
+    second: BaubleImages_133
+  - first:
+      213: -7002099224711010902
+    second: BaubleImages_134
+  - first:
+      213: 1537323701414033245
+    second: BaubleImages_135
+  - first:
+      213: 4664131584939832832
+    second: BaubleImages_136
+  - first:
+      213: -2447120615073516569
+    second: BaubleImages_137
+  - first:
+      213: 549917035332209535
+    second: BaubleImages_138
+  - first:
+      213: -8022225078917223792
+    second: BaubleImages_139
+  - first:
+      213: -305789085100065372
+    second: BaubleImages_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaubleImages_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69be335a8bd7fc0800000000000000
+      internalID: -3495434716089444680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70637adbd0e9eda0800000000000000
+      internalID: -5914949400706981764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5a9aeeba95eb790800000000000000
+      internalID: -7512468533429033506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cfba99350b862b0800000000000000
+      internalID: -5591025064273511403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b46a8541363f3b0800000000000000
+      internalID: -5479927382541972616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7f71b96734fbab0800000000000000
+      internalID: -4990195685415979036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0fbdd820e531c80800000000000000
+      internalID: -8353229518779191082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e21800a43b4e8f0800000000000000
+      internalID: -512087327195976042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a759e75736b51e0800000000000000
+      internalID: -2208061836009047496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578a5f8a913012c0800000000000000
+      internalID: -4463012690824362156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa3194fe3226a00800000000000000
+      internalID: 748199998727105120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e3917d220952860800000000000000
+      internalID: 7504562833394843175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db569cd8d0e6b15c0800000000000000
+      internalID: -4243677219374144067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94889f2edab9527d0800000000000000
+      internalID: -2943775610277099447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c6f0080b3ecac0800000000000000
+      internalID: -3833061327283764241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_15
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 676
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8a8a56a86067f20800000000000000
+      internalID: 3419928158515276012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1cedcc0f05a4da0800000000000000
+      internalID: -5959862161711906332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba372a071a92650800000000000000
+      internalID: 6208671066440838122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a19bbdc2db1040800000000000000
+      internalID: 4619517623855587666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6167caaaaecbbeee0800000000000000
+      internalID: -1230682357083900394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4fd85cd2a670b30800000000000000
+      internalID: 4253485117895210185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f3dc16b3723c350800000000000000
+      internalID: 6035711061603991410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e61434ffdcad70800000000000000
+      internalID: 9055859190674154822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef82eedc79b9360800000000000000
+      internalID: 7177497341864771309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ea58f1912f8500800000000000000
+      internalID: 400575802679943711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265433c5b09a621e0800000000000000
+      internalID: -2222903499804162718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35315e7a37170620800000000000000
+      internalID: 2740184438273029436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acc3d9f3d0a23000800000000000000
+      internalID: 14250581125483682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_28
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52887b10e81c84dd0800000000000000
+      internalID: -2501536777345988571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_29
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78cd32ff056a0de0800000000000000
+      internalID: -1366168417790474113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_30
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ff2cdae5e920d0800000000000000
+      internalID: -3446971242896164598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_31
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 631
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cceb64a420da2bd0800000000000000
+      internalID: -2654080174585549628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b21a075cb479d10800000000000000
+      internalID: 2132256259953470292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b998bb6742c0540800000000000000
+      internalID: 4975391780708653923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3af8c0b64944000800000000000000
+      internalID: 19303485909476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd1f1cde1e594580800000000000000
+      internalID: -8842432906730201674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2155c9e201c201e0800000000000000
+      internalID: -2233010246966226643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf35ae89392053c20800000000000000
+      internalID: 3185455144383435771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c820dfebb578c0800000000000000
+      internalID: -4002086055184905865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3aeee87039e1b0800000000000000
+      internalID: -5626912963460187370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94fbfa5e03a3ee0800000000000000
+      internalID: -1280657380979291723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35e08cd40ef90c80800000000000000
+      internalID: -8355868336776485570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc9022d76f29dd20800000000000000
+      internalID: 3303723924606459133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc31f190e03c5f960800000000000000
+      internalID: 7635223208326534093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76325264e6768e10800000000000000
+      internalID: 2199576191291242110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_45
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1e8e74b732e850800000000000000
+      internalID: 6404742868431150423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_46
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab170571014b2a810800000000000000
+      internalID: 1775179184341021114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_47
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90296616527e260800000000000000
+      internalID: 7126706035600001471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65c46bfc2ef299d0800000000000000
+      internalID: -2768871351729732245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c138a360e640880800000000000000
+      internalID: -8645664411613979621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_50
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd2b1497660531d0800000000000000
+      internalID: -3371781704080740871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_51
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ad192b4c3ff93b0800000000000000
+      internalID: -5503412193488414079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_52
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03998505e97a31b50800000000000000
+      internalID: 6562773380403599664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64a30cd4b942a40800000000000000
+      internalID: 5342565816208082597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd0365148f63fa70800000000000000
+      internalID: 8859547505053076944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ed9801a19ebfa0800000000000000
+      internalID: -5783024750676809863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_56
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18b7b652231c590800000000000000
+      internalID: -7655782755254697565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56eed004c1023e40800000000000000
+      internalID: 5634568025133737565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147975758b413ee60800000000000000
+      internalID: 7990252945857288001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_59
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36bb965b26da4550800000000000000
+      internalID: 6145960123125446203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_60
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfcfc15424d29400800000000000000
+      internalID: 329558975207952337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_61
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826ba5c75b0e8aa0800000000000000
+      internalID: -6156971168962485629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_62
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feae07b96dff57b0800000000000000
+      internalID: -5233185611496640777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_63
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 541
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb0d3185b5723c70800000000000000
+      internalID: 8949344831956388842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedc75cf00438a250800000000000000
+      internalID: 5956067686035738092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d943e5f55c618520800000000000000
+      internalID: 2702560367852341721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16922a65c80130cb0800000000000000
+      internalID: -4899053774714033823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199323efb00ba2dd0800000000000000
+      internalID: -2510000276749796975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a438951d7c8db9460800000000000000
+      internalID: 7249626377905341258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5068b8f9fb5841d80800000000000000
+      internalID: -8280846756765530619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_70
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3602a87a7817ba290800000000000000
+      internalID: -7878078295709179805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_71
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad0cbd47354e5110800000000000000
+      internalID: 1251513850285264288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_72
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6197865cbaf5c630800000000000000
+      internalID: 3946836335272628590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_73
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fff09542b7f43ce0800000000000000
+      internalID: -1426242836926234631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_74
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaf1897d5a32d250800000000000000
+      internalID: 5967896629364259493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_75
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afc038cf13d7ee30800000000000000
+      internalID: 4532823683427782568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_76
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485ee6f1310a3d20800000000000000
+      internalID: 3258918594463815757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_77
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83885c18b63eee520800000000000000
+      internalID: 2733372074738681912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_78
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b981d5e5083f30ab0800000000000000
+      internalID: -5042919425060300645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_79
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 496
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd17d8ff36dac30800000000000000
+      internalID: 4372260762487479699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b727fc9a760ac60800000000000000
+      internalID: 7827370131397442449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3647d4aa484a8a20800000000000000
+      internalID: 3065341981809395259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_82
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01297a5eadc09cd0800000000000000
+      internalID: -2553314839993179894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c894c1073fa8da0800000000000000
+      internalID: -5941669095525479361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9471dde1f24194500800000000000000
+      internalID: 380857836103341897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a199cc515d5e270800000000000000
+      internalID: 8279257779594140236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118c08778d1034310800000000000000
+      internalID: 1387955139389736977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_87
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a73e078b08f8540800000000000000
+      internalID: 5012366439942945353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_88
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9bf2477f995ca0800000000000000
+      internalID: -6027611291684987792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_89
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f1c6bdd0310a00800000000000000
+      internalID: 720911144168060611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_90
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0436a50fc2be47d0800000000000000
+      internalID: -2932209705148861429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc8069f3514fe1c0800000000000000
+      internalID: -4472284076033667912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_92
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e84193699861cf0800000000000000
+      internalID: -281886648368329129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_93
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53fce708bb59220800000000000000
+      internalID: 2492104129377154523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_94
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc988ca16da3584d0800000000000000
+      internalID: -3133033274519549492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_95
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 451
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f92bf0f5a64fe0800000000000000
+      internalID: -1205093395850464152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f98d55880734f130800000000000000
+      internalID: 3599562511912634866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_97
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf50387fc9e1240800000000000000
+      internalID: 4764418042673626364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_98
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186dffc1e9b84ea90800000000000000
+      internalID: -7285544785970997631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0675e5544e2ce80800000000000000
+      internalID: -8159708588255256359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_100
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189fab46fd7a88f0800000000000000
+      internalID: -537478708732127208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6110104b6555250800000000000000
+      internalID: 5932743415241447162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_102
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d2fb21ea27fd880800000000000000
+      internalID: -8584016272780481260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_103
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfc8e7bd55216c30800000000000000
+      internalID: 4350799799464284112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d05c99fc5d134f0800000000000000
+      internalID: -850663766981538526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_105
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9945c160ef2b440800000000000000
+      internalID: 4950298242632161711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_106
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bee46fbf5c03860800000000000000
+      internalID: 7507718264786447160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_107
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc42532e2d828e60800000000000000
+      internalID: 7963082320445066445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_108
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a524fe6e42c28e90800000000000000
+      internalID: -7024838826619820638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_109
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0b77e685a457cb0800000000000000
+      internalID: -4866902078633037625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_110
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f98a889204d6450800000000000000
+      internalID: 6083589218777997111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_111
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 406
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d5652ad14e6cd0800000000000000
+      internalID: -2563038732741125774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fe18aeac38780a0800000000000000
+      internalID: -6879384998244126857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_113
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778ebf517bb9d0d40800000000000000
+      internalID: 5552265126267840631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82365916d271f350800000000000000
+      internalID: 6048742038408934028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_115
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67760dfae1378d9d0800000000000000
+      internalID: -2749320996873803914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_116
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ff303d9181e170800000000000000
+      internalID: 8205982508165101524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_117
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabcdd2364b71644ad146bf3ad0f16b
+      internalID: -651908824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_118
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78049dc8b1f51024a91fd0e69ee95f83
+      internalID: 1041515771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_119
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f43b336bcb414440a9be45c1bec27ca
+      internalID: -1407103089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_120
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099cecc3fc8fb0449b180b54620bf9b2
+      internalID: 155297796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_121
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3991ac998f6e304a82c98134213822a
+      internalID: 367546737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_122
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8513e175507d43a74bb885c7dfba9
+      internalID: 366467663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_123
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e640cca156db54b4b8e46a514accacbc
+      internalID: -1906260216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_124
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c3be4c37b39c4186e1d4abf052970
+      internalID: 1704826274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_125
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bedbc4a7d780e64d8b40fd0685992cc
+      internalID: 1046579293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_126
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df443a92643694898b825bd7c11874
+      internalID: -1112595425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_127
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5c9cf97a820747908b1cf37cbaad5
+      internalID: 261511947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e935b71a25e8e04396dd128547a93e8
+      internalID: -706218380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_129
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501ed968ba355941bc065079be9a633
+      internalID: -962788000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_130
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd972bca638ada8468aef43ce65d952f
+      internalID: 1595045290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_131
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e16c95a463ea14d82e080ad893c746
+      internalID: 174099049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_132
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b2f2280ba22a49893b1ae009879a7
+      internalID: -1716119620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_133
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ec184edcc87a44b4faffcdd4a5cdd
+      internalID: 729302911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3e25fe3e0dd845bea46d08efbc305
+      internalID: -200768425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_135
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdf70b32d430a4f85cfe423533d7f1
+      internalID: -1196702137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_136
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d6104c18f48f4a9db8e289934a69b
+      internalID: -619589653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57726589d51581047af795c5d3c9c32e
+      internalID: 417921634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_138
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a22dea14cc8ca44a50d314bbd6c6a4
+      internalID: 490708719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae007629fc485c747a976cd10414e459
+      internalID: -1920260650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_140
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea90b8f4802fd48aeac358b3d94e7c
+      internalID: 1417481819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_141
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d595ad2f2a0a2408b7a9528a3772dc
+      internalID: 1943212301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_142
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecf0c223663a346860a55f2a3fec9f
+      internalID: -2002217262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_143
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 316
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2355e62063072b84380da357cee8ad22
+      internalID: -1890753873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b4d9a5b750d74bb72e29bcfdf26a3
+      internalID: -796331808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_145
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded164e0411def041a4b3e28cddf5450
+      internalID: -213960924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_146
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13967a9921d18cc479407a0a064a11a1
+      internalID: -238209084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_147
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2bea652bdb5b479d80cda06f4aba3
+      internalID: -343252983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_148
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8768c89d282d4180efbeaae680782
+      internalID: 1255276022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_149
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7aad7ace47fe94cb3b3cffa9338d56
+      internalID: 1532198176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879428d07ff4a5438edb472a5b96f01
+      internalID: 259563102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_151
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f28184f58138044860da4fad550d11
+      internalID: -520749531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_152
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff4915a69bf1148ab39f20c16d6709
+      internalID: -1590140057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_153
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd33259774456343894eddca504d104
+      internalID: -71586789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_154
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937f84e21bcaad499be9a9b9d8fcf67
+      internalID: -1933575403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_155
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90088349424d88240aa2dfee33799b89
+      internalID: 1869036330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_156
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a391b7ffddec7894da0f1e1cbe7891b9
+      internalID: -1808988387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_157
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6e0679de63f604cb87ec239a6731a2
+      internalID: 819935296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_158
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c6cd531e5dd140a2daaff1fd19570
+      internalID: 1584616910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_159
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 271
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b9f3b3c10b34448b6ba31f483c531
+      internalID: 1914149874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844383697adc3cc4eb3fd8cf6b69c3d8
+      internalID: -387528465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_161
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381c52fbae30cc42a3fd2eed15077ca
+      internalID: 479748376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_162
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1908b709960d37459ca0162d2990d14
+      internalID: 1904216306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_163
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241f889b78678144a9f0189a57beb92
+      internalID: 1545325092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_164
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c93980ff24c5148ab4c58b267e4be4
+      internalID: -1973389522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_165
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e85f34dd2e4d47987fcc4a28069d2
+      internalID: 502836519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_166
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e098c096a484b574b8e17acbb5145d08
+      internalID: -1893690048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_167
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b91d1ebf32b1e4389bda131d1737d3
+      internalID: -590582578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_168
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54658f921271a440bb1fa4ac0302bcc
+      internalID: -1768385323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_169
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882adc79a27f1b84b90690e0c253c98a
+      internalID: 2095335137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_170
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84da9698e6f68446962a30b37c1be5c
+      internalID: -303531242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_171
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4cf9a692d817f428274ebdd0a4459b
+      internalID: 486010883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_172
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113c7cff11d1e841b0d0aeec5890a6e
+      internalID: -1641070437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_173
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e654b8733e434e47b485f1fe284119c
+      internalID: -1955697978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_174
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f0c7f51a7cb094baffba1fe55e0207
+      internalID: -72492837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_175
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61795ac00c0cf6848834c6f0cd621527
+      internalID: -1723678806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fff1735bd24864e98ddcd1045f95ae
+      internalID: -1514735349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_177
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cdc61d87c7fd48ac53457af9be804
+      internalID: 698918761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_178
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772d4d2c6fbb69449b408e7e5a39b5ea
+      internalID: 1089240389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050fe8b98a9d5a46ba533509dcc3978
+      internalID: 1094323736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_180
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b766deff9c7d8849beba56b5dcdad2a
+      internalID: 1793820300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_181
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b1a1d641e1c824896f7c8ceb657a28
+      internalID: -835389766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_182
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2c2aaee41b24947835b19eb2e821a6
+      internalID: -1418313267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_183
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a2b8df1f3d444aa3be7bbb3e76066
+      internalID: -58789993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_184
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30e0750f6141b44aef34d3426d3d1b
+      internalID: -2070623313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_185
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b25a2f512217419c5b77ae1c6d11b
+      internalID: -999512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_186
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4050b595abf234fac434664766ebfb
+      internalID: 818768524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_187
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a6c301d6c9ce840891fb682d2807dc
+      internalID: 1890143204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_188
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143c579c1f1a06418a60c50760b5ee7
+      internalID: 178439862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_189
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54762e931233344aa14d510b1051c1
+      internalID: 612431577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_190
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367307ca341a844f96f94b6a11ff0e5
+      internalID: -1962911173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_191
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e51282cec1e0b47838dc946309ff5b
+      internalID: 1104285871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_192
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24745be4cba6f4bb6b4addf1427e6d
+      internalID: -1056729246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_193
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02afc5604404674288585b27da54f31
+      internalID: 1339829167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_194
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a19f1458902944899343fa48099d7
+      internalID: -1971118236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_195
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fabda39caf70d429097ae9a799cb5b
+      internalID: 1026203211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_196
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed60ce33056cd33479f451cce892de8b
+      internalID: -924314373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_197
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864b8ecf5c6ed64c833fd22840be9eb
+      internalID: -713941733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_198
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef645a2d10bf9e64b905c1816090eae3
+      internalID: -415921370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_199
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c7247613524b439f9d410ab88873b
+      internalID: -1141163149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_200
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c2dc8930d7294f9893d485bdcc5ba
+      internalID: 1482482426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_201
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa6519ad6aabc74bbd14885ed86ea17
+      internalID: 1746642566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_202
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c102046783b4afd4ea0e339c20ea9040
+      internalID: 1393117920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_203
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8f46fa391532409890220a73f7936
+      internalID: 790872079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_204
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcffd56b013d65542aeab476c703a915
+      internalID: -791593919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_205
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d15580b1aca7a4c84835872a9b4fa5
+      internalID: -2003766496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_206
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c51eb1114c3f64ca4651c473d6a9a3
+      internalID: 1034828712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_207
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 136
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cec5bc5d1bdbd4c93fa5f80055b8ff
+      internalID: 792394434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963c794182abd841b48bfb065c17966
+      internalID: -350926996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_209
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fb09025d26cf746af37a899ef6a0d9
+      internalID: 867879948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_210
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738c48beb6fb1240b053a918f23cb99
+      internalID: -1790765378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_211
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec18466251a4de418bf23d73c8aa854
+      internalID: 2085542194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_212
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2582b67bb46d43b04b47acc275343
+      internalID: 1328394645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_213
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833bfe7cab741ce408ba34fc469a0a45
+      internalID: -598110634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_214
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804ba7cb4389544582789c7b5557eb1
+      internalID: 1829163860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_215
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a4e26a67dc9e42a34ad910816d95c
+      internalID: 383175173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_216
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dc64520fd810446924e83117c6a4d2
+      internalID: 504978147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_217
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16849502699a64349932b27f68f616ae
+      internalID: 1611752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_218
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec61ec5475712bf4495f9fa8cd484a5d
+      internalID: 1063098937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_219
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9be3b0c211dfe41b8c3349db6b9849
+      internalID: 37506862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_220
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a1c06a70c32748abaa7a9cd5be8a2
+      internalID: -1815075028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_221
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf920123b4b726d47af0db27e5308b21
+      internalID: -508016199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_222
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50d23be3670db41948663a1211a241
+      internalID: -694429444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_223
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 91
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31b1b744a32f1419a0d21ba1de13eb
+      internalID: -17307991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_224
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ef8f307f06ed4c9ff1cf5a3df8c9a
+      internalID: -1636124733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_225
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66cd32e5119dd24db1205d5ba39d5a7
+      internalID: 842782732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_226
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae70c1ab80471664182fcf662a3384ec
+      internalID: 1605736741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_227
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa2c0404122e743805b59d3666d857
+      internalID: 417061045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_228
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b18f3f620343444e858c975a2cc478b
+      internalID: 1792114758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_229
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5c21447804bdc43bccca2263421bec
+      internalID: -1819895561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_230
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f35d94760a7e498c63ba047091509
+      internalID: -1530655515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_231
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a908421a2cc655e4c9c383d6012c1dc1
+      internalID: 389212620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_232
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1eff58689f41a48ab32f9b67ef6d96
+      internalID: -1935359675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_233
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31e65164b749e418bf35e69be96d5f
+      internalID: 17624675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_234
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a03b25543de4442a624016ada97011
+      internalID: 1924495333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_235
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780d88a97945a34abbdcf3f5be2f2fb
+      internalID: 2147284973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_236
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67692efbd0563174fa0de13d7308789b
+      internalID: -1820320977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_237
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414f9802fc2ce843a895a211b91e0cf
+      internalID: 1095242811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_238
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a68fcc9a9f3947984a2acaa77131a
+      internalID: 201422576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_239
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a5302e24666448b33720988d194f2
+      internalID: -1424695314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf3878bf09e7e448d7a5af3fde5407
+      internalID: -458727570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_241
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64503f416d324ba4d9d01b6926f859cc
+      internalID: -1377700541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_242
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d1dc3333f0ab4bac7bb6f16d2f12e
+      internalID: 72598607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_243
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c667d55666785cc479bfd330b796f810
+      internalID: -1861181446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_244
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33114f99db14c834baebe7c92fc06261
+      internalID: 1042116359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_245
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559e4d687ee6634f87ed82a0c42e060
+      internalID: 1018389421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_246
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a2372475a4694181f1213500936f5
+      internalID: 1837223736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_247
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b632a486555f4da27e0d201245c93
+      internalID: -2112117836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_248
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9424d565ed4d4cbc2613be0df4b15
+      internalID: 1293153604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_249
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620f86491bf51a74abf338cab62fff13
+      internalID: -1001301442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_250
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eca55389303d1478a5c78191cc0e04
+      internalID: -78615237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_251
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b7c305e10e2249b173cf4e9badb0c
+      internalID: 1286783914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_252
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7cd5e410bf314e96dcf62219cd63d
+      internalID: 1154155032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_253
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de104b2a328a29345b00f0383d6e8ddf
+      internalID: 1663341688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_254
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f01c2fb9582177409cbe39a3cffe250
+      internalID: 1499713016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaubleImages_255
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa2b09e4eaea5a4398a68f239c8a439
+      internalID: 872820016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 799c5f9517a9a0148b89b6715faaa09f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BaubleImages_0: -3495434716089444680
+      BaubleImages_1: -5914949400706981764
+      BaubleImages_10: 748199998727105120
+      BaubleImages_100: -537478708732127208
+      BaubleImages_101: 5932743415241447162
+      BaubleImages_102: -8584016272780481260
+      BaubleImages_103: 4350799799464284112
+      BaubleImages_104: -850663766981538526
+      BaubleImages_105: 4950298242632161711
+      BaubleImages_106: 7507718264786447160
+      BaubleImages_107: 7963082320445066445
+      BaubleImages_108: -7024838826619820638
+      BaubleImages_109: -4866902078633037625
+      BaubleImages_11: 7504562833394843175
+      BaubleImages_110: 6083589218777997111
+      BaubleImages_111: -2563038732741125774
+      BaubleImages_112: -6879384998244126857
+      BaubleImages_113: 5552265126267840631
+      BaubleImages_114: 6048742038408934028
+      BaubleImages_115: -2749320996873803914
+      BaubleImages_116: 8205982508165101524
+      BaubleImages_117: -651908824
+      BaubleImages_118: 1041515771
+      BaubleImages_119: -1407103089
+      BaubleImages_12: -4243677219374144067
+      BaubleImages_120: 155297796
+      BaubleImages_121: 367546737
+      BaubleImages_122: 366467663
+      BaubleImages_123: -1906260216
+      BaubleImages_124: 1704826274
+      BaubleImages_125: 1046579293
+      BaubleImages_126: -1112595425
+      BaubleImages_127: 261511947
+      BaubleImages_128: -706218380
+      BaubleImages_129: -962788000
+      BaubleImages_13: -2943775610277099447
+      BaubleImages_130: 1595045290
+      BaubleImages_131: 174099049
+      BaubleImages_132: -1716119620
+      BaubleImages_133: 729302911
+      BaubleImages_134: -200768425
+      BaubleImages_135: -1196702137
+      BaubleImages_136: -619589653
+      BaubleImages_137: 417921634
+      BaubleImages_138: 490708719
+      BaubleImages_139: -1920260650
+      BaubleImages_14: -3833061327283764241
+      BaubleImages_140: 1417481819
+      BaubleImages_141: 1943212301
+      BaubleImages_142: -2002217262
+      BaubleImages_143: -1890753873
+      BaubleImages_144: -796331808
+      BaubleImages_145: -213960924
+      BaubleImages_146: -238209084
+      BaubleImages_147: -343252983
+      BaubleImages_148: 1255276022
+      BaubleImages_149: 1532198176
+      BaubleImages_15: 3419928158515276012
+      BaubleImages_150: 259563102
+      BaubleImages_151: -520749531
+      BaubleImages_152: -1590140057
+      BaubleImages_153: -71586789
+      BaubleImages_154: -1933575403
+      BaubleImages_155: 1869036330
+      BaubleImages_156: -1808988387
+      BaubleImages_157: 819935296
+      BaubleImages_158: 1584616910
+      BaubleImages_159: 1914149874
+      BaubleImages_16: -5959862161711906332
+      BaubleImages_160: -387528465
+      BaubleImages_161: 479748376
+      BaubleImages_162: 1904216306
+      BaubleImages_163: 1545325092
+      BaubleImages_164: -1973389522
+      BaubleImages_165: 502836519
+      BaubleImages_166: -1893690048
+      BaubleImages_167: -590582578
+      BaubleImages_168: -1768385323
+      BaubleImages_169: 2095335137
+      BaubleImages_17: 6208671066440838122
+      BaubleImages_170: -303531242
+      BaubleImages_171: 486010883
+      BaubleImages_172: -1641070437
+      BaubleImages_173: -1955697978
+      BaubleImages_174: -72492837
+      BaubleImages_175: -1723678806
+      BaubleImages_176: -1514735349
+      BaubleImages_177: 698918761
+      BaubleImages_178: 1089240389
+      BaubleImages_179: 1094323736
+      BaubleImages_18: 4619517623855587666
+      BaubleImages_180: 1793820300
+      BaubleImages_181: -835389766
+      BaubleImages_182: -1418313267
+      BaubleImages_183: -58789993
+      BaubleImages_184: -2070623313
+      BaubleImages_185: -999512020
+      BaubleImages_186: 818768524
+      BaubleImages_187: 1890143204
+      BaubleImages_188: 178439862
+      BaubleImages_189: 612431577
+      BaubleImages_19: -1230682357083900394
+      BaubleImages_190: -1962911173
+      BaubleImages_191: 1104285871
+      BaubleImages_192: -1056729246
+      BaubleImages_193: 1339829167
+      BaubleImages_194: -1971118236
+      BaubleImages_195: 1026203211
+      BaubleImages_196: -924314373
+      BaubleImages_197: -713941733
+      BaubleImages_198: -415921370
+      BaubleImages_199: -1141163149
+      BaubleImages_2: -7512468533429033506
+      BaubleImages_20: 4253485117895210185
+      BaubleImages_200: 1482482426
+      BaubleImages_201: 1746642566
+      BaubleImages_202: 1393117920
+      BaubleImages_203: 790872079
+      BaubleImages_204: -791593919
+      BaubleImages_205: -2003766496
+      BaubleImages_206: 1034828712
+      BaubleImages_207: 792394434
+      BaubleImages_208: -350926996
+      BaubleImages_209: 867879948
+      BaubleImages_21: 6035711061603991410
+      BaubleImages_210: -1790765378
+      BaubleImages_211: 2085542194
+      BaubleImages_212: 1328394645
+      BaubleImages_213: -598110634
+      BaubleImages_214: 1829163860
+      BaubleImages_215: 383175173
+      BaubleImages_216: 504978147
+      BaubleImages_217: 1611752
+      BaubleImages_218: 1063098937
+      BaubleImages_219: 37506862
+      BaubleImages_22: 9055859190674154822
+      BaubleImages_220: -1815075028
+      BaubleImages_221: -508016199
+      BaubleImages_222: -694429444
+      BaubleImages_223: -17307991
+      BaubleImages_224: -1636124733
+      BaubleImages_225: 842782732
+      BaubleImages_226: 1605736741
+      BaubleImages_227: 417061045
+      BaubleImages_228: 1792114758
+      BaubleImages_229: -1819895561
+      BaubleImages_23: 7177497341864771309
+      BaubleImages_230: -1530655515
+      BaubleImages_231: 389212620
+      BaubleImages_232: -1935359675
+      BaubleImages_233: 17624675
+      BaubleImages_234: 1924495333
+      BaubleImages_235: 2147284973
+      BaubleImages_236: -1820320977
+      BaubleImages_237: 1095242811
+      BaubleImages_238: 201422576
+      BaubleImages_239: -1424695314
+      BaubleImages_24: 400575802679943711
+      BaubleImages_240: -458727570
+      BaubleImages_241: -1377700541
+      BaubleImages_242: 72598607
+      BaubleImages_243: -1861181446
+      BaubleImages_244: 1042116359
+      BaubleImages_245: 1018389421
+      BaubleImages_246: 1837223736
+      BaubleImages_247: -2112117836
+      BaubleImages_248: 1293153604
+      BaubleImages_249: -1001301442
+      BaubleImages_25: -2222903499804162718
+      BaubleImages_250: -78615237
+      BaubleImages_251: 1286783914
+      BaubleImages_252: 1154155032
+      BaubleImages_253: 1663341688
+      BaubleImages_254: 1499713016
+      BaubleImages_255: 872820016
+      BaubleImages_26: 2740184438273029436
+      BaubleImages_27: 14250581125483682
+      BaubleImages_28: -2501536777345988571
+      BaubleImages_29: -1366168417790474113
+      BaubleImages_3: -5591025064273511403
+      BaubleImages_30: -3446971242896164598
+      BaubleImages_31: -2654080174585549628
+      BaubleImages_32: 2132256259953470292
+      BaubleImages_33: 4975391780708653923
+      BaubleImages_34: 19303485909476340
+      BaubleImages_35: -8842432906730201674
+      BaubleImages_36: -2233010246966226643
+      BaubleImages_37: 3185455144383435771
+      BaubleImages_38: -4002086055184905865
+      BaubleImages_39: -5626912963460187370
+      BaubleImages_4: -5479927382541972616
+      BaubleImages_40: -1280657380979291723
+      BaubleImages_41: -8355868336776485570
+      BaubleImages_42: 3303723924606459133
+      BaubleImages_43: 7635223208326534093
+      BaubleImages_44: 2199576191291242110
+      BaubleImages_45: 6404742868431150423
+      BaubleImages_46: 1775179184341021114
+      BaubleImages_47: 7126706035600001471
+      BaubleImages_48: -2768871351729732245
+      BaubleImages_49: -8645664411613979621
+      BaubleImages_5: -4990195685415979036
+      BaubleImages_50: -3371781704080740871
+      BaubleImages_51: -5503412193488414079
+      BaubleImages_52: 6562773380403599664
+      BaubleImages_53: 5342565816208082597
+      BaubleImages_54: 8859547505053076944
+      BaubleImages_55: -5783024750676809863
+      BaubleImages_56: -7655782755254697565
+      BaubleImages_57: 5634568025133737565
+      BaubleImages_58: 7990252945857288001
+      BaubleImages_59: 6145960123125446203
+      BaubleImages_6: -8353229518779191082
+      BaubleImages_60: 329558975207952337
+      BaubleImages_61: -6156971168962485629
+      BaubleImages_62: -5233185611496640777
+      BaubleImages_63: 8949344831956388842
+      BaubleImages_64: 5956067686035738092
+      BaubleImages_65: 2702560367852341721
+      BaubleImages_66: -4899053774714033823
+      BaubleImages_67: -2510000276749796975
+      BaubleImages_68: 7249626377905341258
+      BaubleImages_69: -8280846756765530619
+      BaubleImages_7: -512087327195976042
+      BaubleImages_70: -7878078295709179805
+      BaubleImages_71: 1251513850285264288
+      BaubleImages_72: 3946836335272628590
+      BaubleImages_73: -1426242836926234631
+      BaubleImages_74: 5967896629364259493
+      BaubleImages_75: 4532823683427782568
+      BaubleImages_76: 3258918594463815757
+      BaubleImages_77: 2733372074738681912
+      BaubleImages_78: -5042919425060300645
+      BaubleImages_79: 4372260762487479699
+      BaubleImages_8: -2208061836009047496
+      BaubleImages_80: 7827370131397442449
+      BaubleImages_81: 3065341981809395259
+      BaubleImages_82: -2553314839993179894
+      BaubleImages_83: -5941669095525479361
+      BaubleImages_84: 380857836103341897
+      BaubleImages_85: 8279257779594140236
+      BaubleImages_86: 1387955139389736977
+      BaubleImages_87: 5012366439942945353
+      BaubleImages_88: -6027611291684987792
+      BaubleImages_89: 720911144168060611
+      BaubleImages_9: -4463012690824362156
+      BaubleImages_90: -2932209705148861429
+      BaubleImages_91: -4472284076033667912
+      BaubleImages_92: -281886648368329129
+      BaubleImages_93: 2492104129377154523
+      BaubleImages_94: -3133033274519549492
+      BaubleImages_95: -1205093395850464152
+      BaubleImages_96: 3599562511912634866
+      BaubleImages_97: 4764418042673626364
+      BaubleImages_98: -7285544785970997631
+      BaubleImages_99: -8159708588255256359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
